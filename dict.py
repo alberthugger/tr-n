@@ -9,7 +9,7 @@ fjender = [ {
     "liv": 30
 } ]
 
-
+dsdsd
 def fin_f (name):
     for fjende in fjender:
         if fjende["name"] == name:
